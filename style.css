@@ -19,16 +19,7 @@
   
 }
 
-.radient {
-  position: absolute;
-  background: transparent linear-gradient(180deg, #9D0E0E00 0%, #4F0707 100%) 0% 0% no-repeat padding-box;
-mix-blend-mode: multiply;
 
-height: 469px;
-top: 0px;
-opacity: 1;
-
-} 
 
 .circle {
   position: absolute;
